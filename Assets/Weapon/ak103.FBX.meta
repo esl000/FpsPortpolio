@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: 54f64acf7228cb542a25b522f0ade909
+timeCreated: 1441032844
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: b_weapon_launcher
+    100004: b_weapon_magazine
+    100006: b_weapon_root
+    100008: rif_ak103_barrel_3rd
+    100010: rif_ak103_body_3rd
+    100012: rif_ak103_magazine_3rd
+    100014: rif_ak103_stock_3rd
+    400000: //RootNode
+    400002: b_weapon_launcher
+    400004: b_weapon_magazine
+    400006: b_weapon_root
+    400008: rif_ak103_barrel_3rd
+    400010: rif_ak103_body_3rd
+    400012: rif_ak103_magazine_3rd
+    400014: rif_ak103_stock_3rd
+    4300000: rif_ak103_body_3rd
+    4300002: rif_ak103_magazine_3rd
+    4300004: rif_ak103_barrel_3rd
+    4300006: rif_ak103_stock_3rd
+    9500000: //RootNode
+    13700000: rif_ak103_barrel_3rd
+    13700002: rif_ak103_body_3rd
+    13700004: rif_ak103_magazine_3rd
+    13700006: rif_ak103_stock_3rd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
